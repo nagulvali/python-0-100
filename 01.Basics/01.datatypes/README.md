@@ -83,3 +83,15 @@ data_memoryview = memoryview(bytes("Hello", "utf-8"))
 # NoneType
 nothing = None
 ```
+
+## More Information
+- [01.Numbers](01.Numbers.md)
+- [02.Strings](02.Strings.md)
+- [03.Lists](03.Lists.md)
+- [04.Tuples](04.Tuples.md)
+- [05.Sets](05.Sets.md)
+- [06.Dictionaries](06.Dictionaries.md)
+- [07.Booleans](07.Booleans.md)
+- [08.Binary Types](08.Binary_Types.md)
+- [09.NoneType](09.NoneType.md)
+
